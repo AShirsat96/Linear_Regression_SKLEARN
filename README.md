@@ -1,5 +1,6 @@
 # Univariate_Linear_Regression_SKLEARN
 Univariate Linear Regression using sklearn on Diabetes Dataset
+
 Univariate Linear Regression uses one dependent variable and one independent variable.
 
 Dependent Variable - This is the variable that is going to be predicted.
@@ -7,6 +8,7 @@ Dependent Variable - This is the variable that is going to be predicted.
 Independent Variable - This is the data that is being used in order to make the prediction.
 
 Univariate Linear Regression Formula
+
 y = mx + c
 
 y - dependent variable

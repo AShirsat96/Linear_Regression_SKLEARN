@@ -15,4 +15,4 @@ y - dependent variable
 
 x - independent variable (It is a single variable for univariate linear regression but for multivariate Linear regression there could be many x1,x2,x3 etc)
 
-c - this a constant
+c - this is a constant
